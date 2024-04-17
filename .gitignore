@@ -1,0 +1,56 @@
+# Python and FastAPI related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.sqlite3
+*.egg-info/
+
+# Environment and virtual environment files
+venv/
+.env
+
+# IDE and editor specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+.DS_Store
+
+# Logs and generated files
+logs/
+*.log
+*.csv
+
+# Dependency directories
+node_modules/
